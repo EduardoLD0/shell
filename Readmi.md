@@ -1,0 +1,1 @@
+Abrir una terminal y ingrear el comando make para compilarlo, luego abrir ./main.exe para abrir la terminal
